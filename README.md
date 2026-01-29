@@ -40,7 +40,7 @@ Total Sales, Profit, Average Order Value (AOV), New vs Returning Customers, Rete
 ![Customer Insights](screenshots/customer_insights.png)
 
 ### Product Performance
-![Product Performance](screenshots/product_performance_analysis.png)
+![Product Performance](screenshots/Product_performance_analysis.png)
 
 ## 📁 Files Included
 - Power BI Report (`.pbix`)  
