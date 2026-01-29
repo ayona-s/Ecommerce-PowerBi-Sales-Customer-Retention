@@ -31,6 +31,16 @@ The dashboard provides insights into revenue trends, customer behavior, product 
 Total Sales, Profit, Average Order Value (AOV), New vs Returning Customers, Retention Rate, Profit Margin
 
 ---
+## 📷 Screenshots
+
+### Sales Overview
+![Sales Overview](screenshots/Overview.png)
+
+### Customer Insights
+![Customer Insights](screenshots/customer_insights.png)
+
+### Product Performance
+![Product Performance](screenshots/product_performance_analysis.png)
 
 ## 📁 Files Included
 - Power BI Report (`.pbix`)  
